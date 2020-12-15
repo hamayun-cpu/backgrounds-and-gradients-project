@@ -28,4 +28,4 @@ and how to appy Gradients as well.
 
 - Github: [@abmasadullah](https://github.com/abmasadullah)
 - Twitter: [@abmasadullah](https://twitter.com/abmasadullah)
-- Linkedin: [abmasadullah](https://www.linkedin.com/in/abmasadullah/)
+- Linkedin: [abmasadullah](https://www.linkedin.com/in/hamayun-waheed/)
